@@ -1,6 +1,5 @@
 '''
 Ezana Esayas
-CIS 211
 Calculator
 '''
 # One global environment (scope) for
